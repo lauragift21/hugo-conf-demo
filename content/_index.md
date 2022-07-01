@@ -5,7 +5,6 @@ outputs = ["Reveal"]
 
 {{< slide id="welcome" background="#FFF" transition="zoom" transition-speed="fast" >}}
 
-
 # We're live at Hugo Conf 2022! 🎉
 
 ---
@@ -30,6 +29,3 @@ This a demo site showing how it works! It is deployed on Cloudflare Pages.
 ---
 
 #### Thanks!
-
-
-
